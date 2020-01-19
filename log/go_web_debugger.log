@@ -1,0 +1,2 @@
+{"level":"INFO","timestamp":"2020-01-19 14:30:40.112","file":"go_mod_demo/main.go:52","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2020-01-19 14:30:40.216","file":"go_mod_demo/main.go:49","msg":"The router has been deployed successfully."}
