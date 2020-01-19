@@ -10,5 +10,15 @@ log: # log config
     log_format_text: false
     rollingPolicy: size
     log_rotate_date: 1
-    log_rotate_size: 1
+    log_rotate_size: 1 # 1 mb
     log_backup_count: 7
+db:
+    name: go_web
+    addr: 127.0.0.1:3366
+    username: root
+    password: 123456
+docker_db:
+    name: go_web
+    addr: 127.0.0.1:3366
+    username: root
+    password: 123456
