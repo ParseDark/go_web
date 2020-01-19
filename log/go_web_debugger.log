@@ -51,3 +51,34 @@
 {"level":"INFO","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:25","msg":"URL key param desc: test"}
 {"level":"INFO","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:28","msg":"Header Content-Type: application/json"}
 {"level":"DEBUG","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:30","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2020-01-19 16:51:07.281","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 16:51:07.285","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 16:51:07.285","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 16:51:07.286","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 16:54:37.670","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 16:54:37.674","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 16:54:37.674","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 16:54:37.676","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 16:54:59.825","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:01.377","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:01.580","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:01.946","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:02.164","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:02.388","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:15.163","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:15.343","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:15.514","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:15.676","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:24.340","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:25.028","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:25.424","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:25.627","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:25.811","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:25.982","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:55:26.132","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:59:01.592","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 16:59:09.324","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 17:01:18.285","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 17:02:36.740","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 17:02:41.092","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 17:03:24.115","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
