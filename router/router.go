@@ -4,6 +4,7 @@ import (
 	"net/http"
 
 	"github.com/PaserDark/go_web/handler/sd"
+	"github.com/PaserDark/go_web/handler/user"
 	"github.com/PaserDark/go_web/router/middleware"
 	"github.com/gin-gonic/gin"
 )
@@ -18,6 +19,11 @@ func Load(g *gin.Engine, mw ...gin.HandlerFunc) *gin.Engine {
 	g.NoRoute(func(c *gin.Context) {
 		c.String(http.StatusNotFound, "The correct 	API.")
 	})
+
+	u := g.Group("/v1/user")
+	{
+		u.POST("", user.Create)
+	}
 
 	svcd := g.Group("/sd")
 	{

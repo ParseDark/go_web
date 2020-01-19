@@ -9,3 +9,33 @@
 {"level":"INFO","timestamp":"2020-01-19 14:50:38.469","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
 {"level":"INFO","timestamp":"2020-01-19 14:50:38.469","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8888"}
 {"level":"INFO","timestamp":"2020-01-19 14:50:38.470","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 15:11:08.638","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:08.643","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:08.643","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8888"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:08.645","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 15:11:49.954","file":"config/config.go:53","msg":"Config file changed: /Users/hawei/Documents/go_project/go_mod_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:56.744","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:56.749","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:56.749","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 15:11:56.750","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2020-01-19 15:12:43.253","file":"user/create.go:23","msg":"Username is [admin], Password is []"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:12:45.243","file":"user/create.go:23","msg":"Username is [admin], Password is []"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:12:59.702","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:01.972","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:03.573","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:03.845","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:04.036","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:04.237","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:04.457","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:04.714","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:04.955","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:05.181","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:05.419","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:05.596","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:06.748","file":"user/create.go:23","msg":"Username is [admin], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:22.994","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:39.636","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:40.146","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:40.593","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:40.838","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:13:41.081","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
