@@ -132,3 +132,22 @@
 {"level":"INFO","timestamp":"2020-01-19 17:44:21.582","file":"middleware/logging.go:84","msg":"8.672ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
 {"level":"INFO","timestamp":"2020-01-19 17:44:21.754","file":"middleware/logging.go:84","msg":"9.06ms        | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
 {"level":"INFO","timestamp":"2020-01-19 17:44:21.921","file":"middleware/logging.go:84","msg":"9.053ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:50:53.169","file":"config/config.go:53","msg":"Config file changed: /Users/hawei/Documents/go_project/go_mod_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-01-19 17:54:34.367","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:54:34.371","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:54:34.371","file":"go_mod_demo/main.go:69","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 17:54:34.372","file":"go_mod_demo/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.929","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.934","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.934","file":"go_mod_demo/main.go:69","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.934","file":"go_mod_demo/main.go:64","msg":"Start to listening the incoming requests on https address: 8081"}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.934","file":"go_mod_demo/main.go:65","msg":"listen tcp: address 8081: missing port in address"}
+{"level":"INFO","timestamp":"2020-01-19 17:56:42.935","file":"go_mod_demo/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 17:57:26.229","file":"middleware/logging.go:84","msg":"13.823ms      | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:57:26.739","file":"middleware/logging.go:84","msg":"8.583ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:57:26.915","file":"middleware/logging.go:84","msg":"8.202ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:57:27.085","file":"middleware/logging.go:84","msg":"9.198ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:59:16.008","file":"middleware/logging.go:84","msg":"9.027ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 18:00:35.931","file":"middleware/logging.go:84","msg":"9.245ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 18:00:44.666","file":"middleware/logging.go:84","msg":"7.965ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 18:01:15.235","file":"middleware/logging.go:84","msg":"8.386ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
