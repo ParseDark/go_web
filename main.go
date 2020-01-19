@@ -7,6 +7,7 @@ import (
 
 	"github.com/PaserDark/go_web/config"
 	"github.com/PaserDark/go_web/router"
+	"github.com/PaserDark/go_web/model"
 	"github.com/gin-gonic/gin"
 	"github.com/lexkong/log"
 	"github.com/spf13/pflag"
@@ -26,6 +27,9 @@ func main() {
 
 	// Set gin mode.
 	gin.SetMode(viper.GetString("runmode"))
+	 // init db
+	 model.DB.Init()
+	 defer model.DB.Close()
 
 	// Create the Gin engine.
 	g := gin.New()
