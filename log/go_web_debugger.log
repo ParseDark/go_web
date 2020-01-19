@@ -96,3 +96,39 @@
 {"level":"INFO","timestamp":"2020-01-19 17:25:16.692","file":"middleware/logging.go:84","msg":"9.537ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
 {"level":"INFO","timestamp":"2020-01-19 17:25:16.844","file":"middleware/logging.go:84","msg":"8.962ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
 {"level":"INFO","timestamp":"2020-01-19 17:25:17.040","file":"middleware/logging.go:84","msg":"9.769ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:31:02.642","file":"config/config.go:53","msg":"Config file changed: /Users/hawei/Documents/go_project/go_mod_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-01-19 17:37:49.122","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:37:49.127","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:37:49.127","file":"go_mod_demo/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 17:37:49.128","file":"go_mod_demo/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 17:38:34.504","file":"middleware/logging.go:84","msg":"5.329ms       | 127.0.0.1    | POST /login | {code: 20102, message: The user was not found.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:39:15.269","file":"middleware/logging.go:84","msg":"62.194ms      | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:39:16.129","file":"middleware/logging.go:84","msg":"62.392ms      | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:39:49.209","file":"middleware/logging.go:84","msg":"63.152ms      | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:14.901","file":"middleware/logging.go:84","msg":"42µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:19.651","file":"middleware/logging.go:84","msg":"57µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:53.522","file":"middleware/logging.go:84","msg":"84µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:54.194","file":"middleware/logging.go:84","msg":"61µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:54.395","file":"middleware/logging.go:84","msg":"41µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:40:54.546","file":"middleware/logging.go:84","msg":"40µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:41:28.211","file":"middleware/logging.go:84","msg":"45µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:41:33.695","file":"middleware/logging.go:84","msg":"41µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:42:08.127","file":"middleware/logging.go:84","msg":"40µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"ERROR","timestamp":"2020-01-19 17:42:31.254","file":"middleware/logging.go:76","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2020-01-19 17:42:31.254","file":"middleware/logging.go:84","msg":"60µs          | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"ERROR","timestamp":"2020-01-19 17:42:36.310","file":"middleware/logging.go:76","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2020-01-19 17:42:36.310","file":"middleware/logging.go:84","msg":"50µs          | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"ERROR","timestamp":"2020-01-19 17:42:42.639","file":"middleware/logging.go:76","msg":"response body can not unmarshal to model.Response struct, body: ``","data":{"error":"unexpected end of JSON input"}}
+{"level":"INFO","timestamp":"2020-01-19 17:42:42.639","file":"middleware/logging.go:84","msg":"50µs          | 127.0.0.1    | POST /v1/user | {code: 10001, message: unexpected end of JSON input}"}
+{"level":"INFO","timestamp":"2020-01-19 17:43:02.877","file":"middleware/logging.go:84","msg":"63.052ms      | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:43:15.031","file":"middleware/logging.go:84","msg":"41µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:43:25.907","file":"middleware/logging.go:84","msg":"53µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: The token was invalid.}"}
+{"level":"INFO","timestamp":"2020-01-19 17:43:56.955","file":"middleware/logging.go:84","msg":"8.341ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:00.855","file":"middleware/logging.go:84","msg":"8.167ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:14.295","file":"middleware/logging.go:84","msg":"8.542ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:14.465","file":"middleware/logging.go:84","msg":"8.173ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:14.647","file":"middleware/logging.go:84","msg":"8.787ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:21.064","file":"middleware/logging.go:84","msg":"8.897ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:21.582","file":"middleware/logging.go:84","msg":"8.672ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:21.754","file":"middleware/logging.go:84","msg":"9.06ms        | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:44:21.921","file":"middleware/logging.go:84","msg":"9.053ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
