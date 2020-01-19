@@ -11,10 +11,12 @@ require (
 	github.com/lexkong/log v0.0.0-20180607165131-972f9cd951fc
 	github.com/onsi/ginkgo v1.11.0 // indirect
 	github.com/onsi/gomega v1.8.1 // indirect
+	github.com/satori/go.uuid v1.2.0
 	github.com/shirou/gopsutil v2.19.12+incompatible
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.6.2
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf
+	github.com/willf/pad v0.0.0-20190207183901-eccfe5d84172
 	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
 	gopkg.in/go-playground/validator.v9 v9.29.1
 )

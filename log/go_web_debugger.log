@@ -82,3 +82,17 @@
 {"level":"INFO","timestamp":"2020-01-19 17:02:36.740","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
 {"level":"INFO","timestamp":"2020-01-19 17:02:41.092","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
 {"level":"INFO","timestamp":"2020-01-19 17:03:24.115","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-01-19 17:22:31.003","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:22:31.007","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:22:31.007","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 17:22:31.008","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 17:25:10.850","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:10.854","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:10.855","file":"go_mod_demo/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:10.856","file":"go_mod_demo/main.go:56","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 17:25:16.209","file":"middleware/logging.go:84","msg":"10.141ms      | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:16.372","file":"middleware/logging.go:84","msg":"9.666ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:16.536","file":"middleware/logging.go:84","msg":"9.454ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:16.692","file":"middleware/logging.go:84","msg":"9.537ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:16.844","file":"middleware/logging.go:84","msg":"8.962ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2020-01-19 17:25:17.040","file":"middleware/logging.go:84","msg":"9.769ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
