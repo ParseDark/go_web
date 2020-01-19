@@ -39,3 +39,15 @@
 {"level":"DEBUG","timestamp":"2020-01-19 15:13:40.593","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
 {"level":"DEBUG","timestamp":"2020-01-19 15:13:40.838","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
 {"level":"DEBUG","timestamp":"2020-01-19 15:13:41.081","file":"user/create.go:23","msg":"Username is [hawei], Password is [admin]"}
+{"level":"INFO","timestamp":"2020-01-19 15:37:06.178","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:37:06.182","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:37:06.182","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 15:37:06.183","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 15:39:04.791","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:39:04.796","file":"model/init.go:35","msg":"Database connection succeeded. Database name: go_web"}
+{"level":"INFO","timestamp":"2020-01-19 15:39:04.796","file":"go_mod_demo/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-01-19 15:39:04.797","file":"go_mod_demo/main.go:53","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:22","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:25","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:28","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2020-01-19 15:39:34.822","file":"user/create.go:30","msg":"username is: [admin], password is [admin]"}
