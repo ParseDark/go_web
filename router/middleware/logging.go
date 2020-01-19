@@ -34,6 +34,7 @@ func Logging() gin.HandlerFunc {
 		reg := regexp.MustCompile("(/v1/user|/login)")
 		if !reg.MatchString(path) {
 			return
+			
 		}
 
 		// Skip for the health check requests.
