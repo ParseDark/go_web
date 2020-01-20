@@ -6,7 +6,7 @@ gotool:
 	gofmt -w .
 	go vet . | grep -v vendor;true
 ca:
-	openssl req -new -nodes -x509 -out conf/server.crt -keyout conf/server.key -days 3650 -subj "/C=DE/ST=NRW/L=Earth/O=Random Company/OU=IT/CN=127.0.0.1/emailAddress=xxxxx@qq.com"
+	openssl req -new -nodes -x509 -out conf/server.crt -keyout conf/server.key -days 3650 -subj "/C=DE/ST=NRW/L=Earth/O=Random Company/OU=IT/CN=127.0.0.1/emailAddress=whd1073363531@qq.com"
 
 help:
 	@echo "make - compile the source code"
